@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "country": "India",
+        "city": "Dehli",
+        "population": 1212891
+      },
+      {
+        "id": 2,
+        "country": "pakistan",
+        "city": "Karachi",
+        "population": 148912
+      },
+      {
+        "id": 3,
+        "country": "Sri Lanka",
+        "city": "Columbo",
+        "population": 2298853
+    
+      },
+      {
+        "id": 4,
+        "country": "India",
+        "city": "Mumbai",
+        "population": 34421
+      }
+    ]
+  }

@@ -1,0 +1,50 @@
+#body {
+    background: black;
+    width: 35%;
+    margin: auto;
+  }
+
+  #first_div {
+    display: flex;
+    margin: 80px 0 0 0;
+    justify-content: space-around;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(8,105,117);
+    color: white;
+    font-weight: 800;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  #second_div{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    background-color: rgb(8,110,122);
+    gap: 20px;
+  }
+
+  .keywords{
+    background: white;
+    width: 70px;
+    height: 100px;
+    margin-left: 30px;
+    text-align: center;
+    color: rgb(8,110,122);
+    font-weight: 800;
+    font-family: sans-serif;
+    font-size: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+  #third_div{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+    padding: 35px;
+    font-size: 20px;
+    background-color: rgb(8,105,117);
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+  }
